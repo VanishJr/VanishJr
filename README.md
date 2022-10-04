@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VanishJr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me by email (ilogutov04@gmail.com)
 
 <!---
