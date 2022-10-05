@@ -1,4 +1,4 @@
-== 👋 Howdy, stranger.
+## 👋 Howdy, stranger.
 
 Thank you for stopping by.
 My name is Ivan (I also known as Vanish) Logutov.
