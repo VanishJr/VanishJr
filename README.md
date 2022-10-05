@@ -12,7 +12,6 @@ You can check my repos, I'll be glad✌️
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanishjr&layout=compact"
     />
   </a>
-  <p>
   <a href="https://github.com/vanishjr?tab=repositories">
     <img
       align="center"
