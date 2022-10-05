@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @VanishJr
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 📫 How to reach me by email (ilogutov04@gmail.com)
+== 👋 Howdy, stranger.
 
-<!---
-VanishJr/VanishJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for stopping by.
+My name is Ivan (I also known as Vanish) Logutov.
+
+You can check my repos, I'll be glad✌️
+
+[VanishJr's Github Stats](https://github-readme-stats.vercel.app/api?username=vanishjr&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues)
