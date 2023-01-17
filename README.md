@@ -1,7 +1,7 @@
 ## 👋 Howdy, stranger.
 
 Thank you for stopping by.
-My name is Ivan (I also known as Vanish) Logutov.
+My name is Ivan (I also known as VanishJr) Logutov.
 
 You can check my repos, I'll be glad✌️
 
