@@ -20,8 +20,6 @@ Techonologies:
 </div>
 
 
-- 📫 Contact me through => **ilogutov04@gmail.com** 
-
 <p align="center">
   <a href="https://github.com/vanishjr?tab=repositories">
     <img
@@ -37,4 +35,6 @@ Techonologies:
     />
   </a>
 </p>
+
+- 📫 Contact me through => **ilogutov04@gmail.com** 
 
