@@ -1,9 +1,6 @@
 ## 👋 Howdy, stranger.
 
-Thank you for stopping by.
-My name is Ivan (I also known as VanishJr) Logutov.
-
-You can check my repos, I'll be glad✌️
+The name's Ivan, but you can call me VanishJr. I'm a code-slinging, Java-wrangling software engineer at your service. Let's make some magic happen together🌀
 
 - 📖 Primary Languages => ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
