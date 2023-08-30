@@ -31,7 +31,7 @@ Techonologies:
     />
   </a>
   <!-- LeetCode Stats -->
-  ![LeetCode Stats](https://leetcode.card.workers.dev/vanishjr?theme=dark&font=baloo&extension=null)
+  <img src="https://leetcode.card.workers.dev/vanishjr?theme=dark&font=baloo&extension=null" alt="LeetCode Stats">
 </p>
 
 - 📫 Contact me through => **ilogutov04@gmail.com** 
