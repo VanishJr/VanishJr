@@ -37,5 +37,4 @@ Techonologies:
 </p>
 
 - 📫 Contact me through => **ilogutov04@gmail.com** 
-- 🌎 Watch my website => [**VanishJr**](http://vanishjr.com/)
 
