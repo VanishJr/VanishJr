@@ -1,4 +1,4 @@
-## 👋 Howdy, stranger.
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B61&width=435&lines=Howdy%2C+stranger!+I+am+Ivan+Logutov%F0%9F%91%8B)](https://git.io/typing-svg)
 
 The name's Ivan, but you can call me VanishJr. I'm a code-slinging, Java-wrangling software engineer at your service. Let's make some magic happen together🌀
 
