@@ -23,18 +23,5 @@ Techonologies:
 	
 </p>
 
-<p align="center">
-  <a href="https://github.com/vanishjr?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanishjr&&theme=dark&show_icons=true"
-    />
-  </a>
-  <!-- LeetCode Stats -->
-  <img 
-	align="center"
-	src="https://leetcode.card.workers.dev/vanishjr?theme=dark&font=baloo&extension=null" alt="LeetCode Stats">
-</p>
-
 - 📫 Contact me through => **ilogutov04@gmail.com** 
 
