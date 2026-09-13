@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B61&width=480&lines=Backend+Engineer+%7C+JVM;Contributor+to+JetBrains%2FThinkRail;Ivan+Logutov)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B61&width=480&lines=Software+Developer+%7C+JVM+%7C+TypeScript;Ivan+Logutov)](https://git.io/typing-svg)
 
 Software Developer on the JVM. I work on APIs, data and concurrency in a large enterprise platform, and on the tooling that lets LLM agents work with it.
 
