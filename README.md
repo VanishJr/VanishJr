@@ -1,35 +1,58 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B61&width=480&lines=Software+Developer+%7C+JVM+%7C+TypeScript;Ivan+Logutov)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2470cc&width=480&lines=Software+Developer+%7C+JVM+%7C+TypeScript;Ivan+Logutov)](https://git.io/typing-svg)
 
 Software Developer on the JVM. I work on APIs, data and concurrency in a large enterprise platform, and on the tooling that lets LLM agents work with it.
-
+ 
 - 💼 Backend Developer (Werkstudent) @ **Valsight GmbH** — Groovy/Grails, Postgres, TypeScript, MCP tools
 - 🎓 MSc Data Science @ UE Germany · BSc Software Engineering (2026)
 - 📍 Berlin/Potsdam, Germany
-
 ---
-
+ 
 ### 🧰 Tech stack
-
+ 
 **Languages**
-<div><code><img height="45" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" title="Groovy" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" /></code> <code><img height="45" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code></div>
-
+ 
+![Java](https://shieldcn.dev/badge/-Java-ED8B00.svg?logo=ri:FaJava&variant=branded&size=sm)
+![Kotlin](https://shieldcn.dev/badge/-Kotlin-7F52FF.svg?logo=kotlin&variant=branded&size=sm)
+![Groovy](https://shieldcn.dev/badge/-Groovy-4298B8.svg?logo=apachegroovy&variant=branded&size=sm)
+![TypeScript](https://shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
+![Python](https://shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
+ 
 **Backend**
-<div><code><img height="45" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grails/grails-original.svg" alt="Grails" title="Grails" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" /></code> <code><img height="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST API" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" /></code></div>
-
+ 
+![Spring](https://shieldcn.dev/badge/-Spring-6DB33F.svg?logo=spring&variant=branded&size=sm)
+![Grails](https://shieldcn.dev/badge/-Grails-FEB672.svg?logo=ri:DiGrails&variant=branded&size=sm)
+![Node.js](https://shieldcn.dev/badge/-Node.js-5FA04E.svg?logo=nodedotjs&variant=branded&size=sm)
+![REST APIs](https://shieldcn.dev/badge/-REST_APIs-0EA5E9.svg?logo=ri:TbApi&variant=branded&size=sm)
+![RabbitMQ](https://shieldcn.dev/badge/-RabbitMQ-FF6600.svg?logo=rabbitmq&variant=branded&size=sm)
+ 
 **Data**
-<div><code><img height="45" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" title="MS SQL Server" /></code></div>
-
-**Tooling**
-<div><code><img height="45" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" /></code> <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" /></code></div>
-
-`Liquibase` · `Spock` · `ANTLR4` · `MCP`
-
+ 
+![PostgreSQL](https://shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm)
+![MS SQL Server](https://shieldcn.dev/badge/-MS_SQL_Server-CC2927.svg?logo=ri:DiMsqlServer&variant=branded&size=sm)
+![Liquibase](https://shieldcn.dev/badge/-Liquibase-2962FF.svg?logo=liquibase&variant=branded&size=sm)
+ 
+**AI / LLM**
+ 
+![Claude](https://shieldcn.dev/badge/-Claude-D97757.svg?logo=claude&variant=branded&size=sm)
+![OpenAI_SDK](https://www.shieldcn.dev/badge/-OpenAI_SDK-412991.svg?logo=openai&variant=branded&size=sm)
+![AI_SDK](https://www.shieldcn.dev/badge/-AI_SDK-000000.svg?logo=vercel&variant=branded&size=sm)
+![MCP](https://shieldcn.dev/badge/-MCP-000000.svg?logo=modelcontextprotocol&variant=branded&size=sm)
+![LLMs](https://shieldcn.dev/badge/-LLMs-9333EA.svg?logo=ri:RiSparkling2Fill&variant=branded&size=sm)
+![AI Agents](https://shieldcn.dev/badge/-AI_Agents-6366F1.svg?logo=ri:RiRobot2Fill&variant=branded&size=sm)
+ 
+**Cloud & Tooling**
+ 
+![Docker](https://shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm)
+![AWS](https://shieldcn.dev/badge/-AWS-FF9900.svg?logo=ri:FaAws&variant=branded&size=sm)
+![Vercel](https://shieldcn.dev/badge/-Vercel-000000.svg?logo=vercel&variant=branded&size=sm)
+![JUnit5](https://shieldcn.dev/badge/-JUnit5-25A162.svg?logo=junit5&variant=branded&size=sm)
+![Spock](https://shieldcn.dev/badge/-Spock-0F766E.svg?logo=ri:RiTestTubeFill&variant=branded&size=sm)
+![ANTLR4](https://shieldcn.dev/badge/-ANTLR4-E2231A.svg?logo=ri:RiCodeSSlashFill&variant=branded&size=sm)
+ 
 ---
-
+ 
 ### 📫 Contact
-
-<div>
-<a href="mailto:ilogutov04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/software-developer-ivan-logutov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://ilogutov.com"><img src="https://img.shields.io/badge/Website-F79B61?style=flat&logo=googlechrome&logoColor=white" /></a>
-</div>
+ 
+[![Email](https://shieldcn.dev/badge/-Email-EA4335.svg?logo=gmail&variant=branded&size=sm)](mailto:ilogutov04@gmail.com)
+[![LinkedIn](https://shieldcn.dev/badge/-LinkedIn-0A66C2.svg?logo=ri:FaLinkedin&variant=branded&size=sm)](https://www.linkedin.com/in/software-developer-ivan-logutov/)
+[![Website](https://shieldcn.dev/badge/-ilogutov.com-F79B61.svg?logo=ri:RiGlobalLine&variant=branded&size=sm)](https://ilogutov.com)
